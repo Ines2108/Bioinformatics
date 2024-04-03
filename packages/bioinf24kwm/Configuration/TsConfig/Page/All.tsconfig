@@ -1,0 +1,7 @@
+#
+# PageTS for bioinf24kwm
+#
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:bioinf24kwm/Configuration/TsConfig/Page/RTE.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:bioinf24kwm/Configuration/TsConfig/Page/TCEFORM.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:bioinf24kwm/Configuration/TsConfig/Page/TCEMAIN.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:bioinf24kwm/Configuration/TsConfig/Page/Mod/WebLayout/BackendLayouts.tsconfig">
