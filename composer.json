@@ -13,6 +13,10 @@
 		},
 		"sort-packages": true
 	},
+	"repositories": [
+		{"type": "composer","url": "https://composer.typo3.org/"},
+		{"type": "path","url": "packages/*"}
+	],
 	"require": {
 		"b13/container": "^2.3",
 		"bk2k/bootstrap-package": "^14.0",
